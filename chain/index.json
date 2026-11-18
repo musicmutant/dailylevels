@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-21 16:00:10 UTC",
-  "date": "2026-09-21",
+  "generated": "2026-11-18 02:19:15 UTC",
+  "date": "2026-11-18",
   "products": [
     "CL",
     "DY",
@@ -12,38 +12,39 @@
   ],
   "counts": {
     "CL": {
-      "calls": 291,
-      "puts": 270
+      "calls": 233,
+      "puts": 231
     },
     "DY": {
-      "calls": 155,
-      "puts": 155
+      "calls": 227,
+      "puts": 227
     },
     "ES": {
-      "calls": 192,
-      "puts": 192
+      "calls": 201,
+      "puts": 201
     },
     "GC": {
-      "calls": 894,
-      "puts": 894
+      "calls": 895,
+      "puts": 895
     },
     "HG": {
       "calls": 107,
       "puts": 107
     },
     "NQ": {
-      "calls": 115,
-      "puts": 115
+      "calls": 208,
+      "puts": 208
     },
     "SI": {
-      "calls": 531,
-      "puts": 531
+      "calls": 432,
+      "puts": 432
     }
   },
   "latest_url_pattern": "https://raw.githubusercontent.com/musicmutant/dailylevels/main/chain/latest/<PID>.json",
   "dated_url_pattern": "https://raw.githubusercontent.com/musicmutant/dailylevels/main/chain/<YYYY-MM-DD>/<PID>.json",
   "dates": [
     "2026-08-21",
-    "2026-09-21"
+    "2026-09-21",
+    "2026-11-18"
   ]
 }
